@@ -166,6 +166,49 @@ From route planning to outfits, from equipment to packing, Guangxing helps turn 
 
 ---
 
+## 如何使用｜How to Use
+
+### 方法 ：直接下载 Skill 包
+
+1. 点击仓库中的 `plan-glow-trip-v3-SkillPay-fixed.zip`
+2. 点击右上角 `Download raw file` 下载到本地
+3. 在支持上传 / 安装 Skill 的 AI 工具中导入该压缩包
+4. 导入完成后，直接告诉 AI 你的旅行需求即可
+
+### 推荐调用指令
+
+请使用 **光行｜两阶段旅行规划 V3** 帮我进行两阶段旅行规划。
+
+先执行第一阶段，询问：
+- 出发地
+- 目的地
+- 出行时间
+- 同行人
+- 旅行要求
+- 大交通情况
+
+---
+## English Usage
+
+1. Download `plan-glow-trip-v3-SkillPay-fixed.zip`
+2. Import it into an AI tool that supports custom Skills
+3. Tell the AI your destination, travel dates, companions, travel pace, preferences, and special requirements
+4. Generate Report 1 first, select your preferred places, then continue with Report 2
+
+### Recommended Prompt
+
+Please use **Guangxing | Two-Stage Travel Planning V3** to help me plan my trip in two stages.
+
+Start with Stage 1 and ask me about:
+- Departure city
+- Destination
+- Travel dates
+- Travel companions
+- Travel preferences and requirements
+- Long-distance transportation arrangements
+
+如果你当前使用的平台不支持 Skill 安装，也可以解压文件后，将其中的 SKILL.md 内容作为系统提示词 / 自定义指令使用。
+
 ## Feedback
 
 If this skill is useful to you, feel free to give the repository a ⭐ Star.
